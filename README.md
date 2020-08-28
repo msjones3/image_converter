@@ -11,4 +11,4 @@ Use pip3 to install the following modules:
 2. Click on Convert, then choose a new name to save as
 
 ## credits:
-This code was written by [https://datatofish.com/jpeg-to-png-python/](Data to Fish)
+This code was written by ['https://datatofish.com/jpeg-to-png-python/'](Data to Fish)
